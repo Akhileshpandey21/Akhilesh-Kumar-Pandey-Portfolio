@@ -1,0 +1,42 @@
+# Node Modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js Build & Cache
+.next/
+out/
+.cache/
+.vercel/
+dist/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+.log/
+
+# Local environment variables
+.env.local
+.env*.local
+.env
+
+.next/
+node_modules/
+
+# Editor Directories & System Files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*.swn
+
+# Misc
+coverage/
+*.lock
